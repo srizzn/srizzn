@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @srizzn
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning game developing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: idk anything bout coding
+Hi i m srizzn 
+i m currently 16 year old and looking to learn new skills and get in contact with goated people
+i would like to learn web development and i m really intrested in physics [ idk why i m writting this here lol ] 
 
 <!---
 srizzn/srizzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
